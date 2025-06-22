@@ -1,2 +1,5 @@
-flask flask_login  Flask
+flask 
+Flask==2.0.1
+Flask-Login==0.5.0
+
 
